@@ -8,3 +8,5 @@ cryptography
 scipy
 pingouin
 imageio
+nltk
+pyspellchecker
