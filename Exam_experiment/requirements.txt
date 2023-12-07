@@ -1,0 +1,12 @@
+matplotlib
+numpy
+pandas
+lxml
+seaborn
+jsonlines
+cryptography
+scipy
+pingouin
+imageio
+nltk
+pyspellchecker
