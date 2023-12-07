@@ -1,0 +1,181 @@
+,sound,condition,response
+0,18,b,a rose bush has prickly thorns
+1,17,b,we should have considered the juice
+2,n-1,b,the bomb exploded with a blast
+3,n-2,b,mary could not discuss the tax
+4,10,b,they marched to the beat of the drum
+5,n-28,b,the old man thinks about the mast
+6,n-20,b,the soup was served in a bowl
+7,n-22,b,the sailor swabbed the deck
+8,13,b,ruth hopes he heard about the hips
+9,2,b,this nozzle sprays a fine mist
+10,n-26,b,the bomb exploded with a blast
+11,n-32,b,you were considering the game
+12,n-18,b,the rose bush has prickly thorns
+13,9,b,the cop wore a bullet proof vest
+14,16,b,after his bath he wore a robe
+15,12,b,bob could have known about the squeal
+16,n-23,b,jane has a problem with the coin
+17,n-21,b,bill might discuss the firs
+18,6,b,lubricate the bike with grease
+19,n-29,b,bill heard tom called about the coach
+20,n-27,b,the farmer harvested his crops
+21,n-25,b,tom is talking about the fee
+22,8,b,nancy had considered the sleeves
+23,n-19,b,they have a problem with the linen
+24,n-30,b,tom could not discuss the bark
+25,4,b,mary could not discuss the tack
+26,7,b,nancy could consider the fist
+27,n-17,b,anne was interested with the breath
+28,11,b,we should have considered the proof
+29,5,b,the fruit was shipped in wooden crates
+30,3,b,i can't guess so give me a hint
+31,n-24,b,ruth poured the water down the drain
+32,15,b,i'd spoken about the pile
+33,1,b,the boy gave the football a kick
+34,n-31,b,no one was injured in the crash
+35,14,b,tom will discuss the swan
+36,17,b,the bomb explored with blast
+37,18,b,Marry could not discuss the tax
+38,n-1,b,
+39,n-2,b,we should consider the juice
+40,1,b,a lord pushes 
+41,2,b,we should consider the juice
+42,3,b,the fruit was shipped
+43,4,b,bob could know about the spoon 
+44,5,b,the roof coat down with rain
+45,6,b,a boy ate a football cake
+46,7,b,Will my discuss the phone
+47,8,b,the coke bottle proof about guest
+48,9,b,Tom could not discuss the bomb
+49,10,b,You are considering the game
+50,11,b,
+51,12,b,Nancy should consider the guest
+52,13,b,"I can't guess, so give me a hint"
+53,14,b,a soup was served with bowl
+54,15,b,I spoke about the tile
+55,16,b,Jane has a problem with a coin
+56,n-17,b,the bomb explored with blast
+57,n-18,b,Marry could not discuss the tax
+58,n-19,b,They have a problem with a lin
+59,n-20,b,Nancy has considered the sleeve 
+60,n-21,b,     bike with 
+61,n-22,b,the farmer harvested his crop
+62,n-23,b,they'll have    about couch
+63,n-24,b,they marched with the beat of drum
+64,n-25,b,No one is    the clash
+65,n-26,b,the old man thinks about the mask
+66,n-27,b,the sailor swop the deck
+67,n-28,b,Tom will discuss the swan 
+68,n-29,b,I'm interested in the blest
+69,n-30,b,this      about the   
+70,n-31,b,roof      heap about the 
+71,n-32,b,Tom is talking about the fee
+72,17,b,A bomb is exploding for the blast
+73,18,b,A rose bush has pricky thorns
+74,n-1,b,Mary could not discuss the tag
+75,n-2,b,We should have considered the juice
+76,1,b,You are considering the gag
+77,2,b,We should have considered the juice
+78,3,b,No one was injured in the crash
+79,4,b,The sailor swabbed the deck
+80,5,b,Nancy had considered the sleeves
+81,6,b,The bomb exploded with a blast
+82,7,b,Tom could not discuss the bark
+83,8,b,After his bath he wore a robe
+84,9,b,I have spoken about the pile
+85,10,b,Bill heard Tom call about the coach
+86,11,b,Jame has a problem with a coin
+87,12,b,The rose bush has prickly thorns
+88,13,b,This nozzle sprays a fine mist
+89,14,b,Bill might discuss the fern
+90,15,b,They have a problem with the limb
+91,16,b,The old man thinks about the mast
+92,n-17,b,They marched to the beat of the drum
+93,n-18,b,Ann was interested in the breath
+94,n-19,b,Tom will discuss the swan
+95,n-20,b,Tom is talking about the fee
+96,n-21,b,Bob could have known about the spook
+97,n-22,b,Mary could not discuss the tac
+98,n-23,b,The soup was served in a bowl
+99,n-24,b,The fruit was shipped in wooden crates
+100,n-25,b,The farmer harvested his crop
+101,n-26,b,Ruth called the water down the drain
+102,n-27,b,Lubricate the bike with grease
+103,n-28,b,Nancy should consider the fist
+104,n-29,b,The boy gave the football a kick
+105,n-30,b,Ruth hope he heard about the hips
+106,n-31,b,The cop wore a bullet proof west
+107,n-32,b,"I can't guess, so give me a hint"
+108,n-2,b,A rosebush has pricky thorns
+109,17,b,We should have considered the juice
+110,18,b,Mary could not discuss the tag
+111,n-1,b,The bomb exploded in a blast.
+112,n-21,b,I have spoken about the pile
+113,6,b,Tom could not discuss the bar
+114,n-23,b,Nancy should consider the feast
+115,10,b,The sailor swapped the deck
+116,2,b,"I can't guess, so give me a hint"
+117,5,b,After his bath he wore a robe
+118,14,b,The rosebush has pricky thorns
+119,n-32,b,The farmer harvested his crop
+120,7,b,Lubricate the bike with grease
+121,n-24,b,The soup was served in a bowl
+122,n-25,b,No one was inured in the crash
+123,n-22,b,They have a problem with a limb
+124,13,b,Mary could not discuss the tag
+125,n-19,b,This nossle spray is a fine mist
+126,3,b,We should have considered the juice
+127,16,b,The bomb exploded with a blast
+128,4,b,You were considering the gang
+129,1,b,Bill might discuss the firm
+130,12,b,Jane has a problem with the coins
+131,n-30,b,Roof poured the water down the drain
+132,15,b,Bill had Tom called about the coach
+133,n-28,b,Tom will discuss the swan
+134,n-18,b,They marched to the beat of the drum
+135,n-20,b,Tom is talking about the fee
+136,n-17,b,Roof hopes he heard about the hips
+137,n-26,b,Nancy had considered the sleeves
+138,n-27,b,Robb could have known about the spoon
+139,8,b,Anne was interested in the breath
+140,n-31,b,The fruit was shipped in wooden crates
+141,n-29,b,The boy gave the football a kick
+142,9,b,The cop wore a bulletproof vest
+143,11,b,The old man thinks about the must
+144,18,b,we should have considered the jews
+145,n-1,b,mary could not have discussed the tac
+146,17,b,a rose bush has prickly thorns
+147,n-2,b,the bomb exploded with a blast
+148,n-21,b,the rose bush has prickly thorns
+149,4,b,mary could not discuss the tac
+150,14,b,tom is talking about the fee
+151,n-30,b,bill heard tom call about the coach
+152,11,b,they have a problem with the lem
+153,n-24,b,nancy had considered the sleeves
+154,n-19,b,jane has a problem with the coin
+155,n-31,b,lubricate the bike with grease
+156,n-27,b,roof caught the rain down the drain
+157,13,b,nancy should consider the fish
+158,n-28,b,after his bath he wore a robe
+159,6,b,tom will discuss the svane(på engelsk) <3. swarn. det forkert stavet
+160,3,b,the farmer harvested his crop
+161,9,b,the boy gave the football a kick
+162,1,b,I have spoken about the pile
+163,8,b,the old man thinks about the mast
+164,10,b,the bomb exploded with a blast
+165,n-25,b,no one was injured in the crash
+166,n-26,b,they marched to the beat of the drum
+167,n-17,b,this nosel sprays a fine mist
+168,n-18,b,tom could not discuss the bar
+169,7,b,I cant guess so give me a hint
+170,2,b,the cop wore a bulletproof west
+171,n-23,b,you were considering the gang
+172,n-29,b,the soup was served in a bowl
+173,n-32,b,we should have considered the jews
+174,16,b,will might discuss defoe
+175,12,b,the sailor swapped the deck
+176,n-22,b,bob could have known about the spoon'
+177,5,b,the food was shipped in wooden crates
+178,15,b,Ann was interested in the breath
+179,n-20,b,Ruth hope she heard about the hip

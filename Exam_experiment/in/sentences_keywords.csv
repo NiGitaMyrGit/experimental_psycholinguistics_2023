@@ -1,0 +1,65 @@
+﻿predictability;sentences;sound;keyword
+(H);A rose bush has prickly thorns.;n-1;thorns
+(L);We should have considered the juice.;n-2;juice
+(H);The fruit was shipped in wooden crates.;n-3;crates
+(L);Bob could have known about the spoon.;n-4;spoon
+(H);Ruth poured the water down the drain.;n-5;drain
+(H);The boy gave the football a kick.;n-6;kick
+(L);Bill might discuss the foam.;n-7;foam
+(H);The cop wore a bullet-proof vest.;n-8;vest
+(L);Tom could not discuss the barn.;n-9;barn
+(L);You were considering the gang.;n-10;gang
+(H);After his bath he wore a robe.;n-11;robe
+(L);"Nancy should consider the fist.					";n-12;fist
+(H);I cannot guess, so give me a hint.;n-13;hint
+(H);The soup was served in a bowl.;n-14;bowl
+(L);I have spoken about the pile.;n-15;pile
+(L);Jane has a problem with the coin.;n-16;coin
+(H);The bomb exploded with a blast.;n-17;blast
+(L);Mary could not discuss the tack.;n-18;tack
+(L);They have a problem with the limb.;n-19;limb
+(L);Nancy had considered the sleeves.;n-20;sleeves
+(H);"Lubricate the bike with grease.					";n-21;grease
+(H);"The farmer harvested his crop.	";n-22;crop
+(L);Bill heard Tom called about the coach.;n-23;coach
+(H);They marched to the beat of the drum.;n-24;drum
+(H);No one was injured in the crash.;n-25;crash
+(L);The old man thinks about the mast.;n-26;mast
+(H);The sailor swabbed the deck.;n-27;deck
+(L);Tom will discuss the swan.;n-28;swan
+(L);Ann was interested in the breath.;n-29;breath
+(H);This nozzle sprays a fine mist.;n-30;mist
+(L);Ruth hopes he heard about the hips.;n-31;hips
+(L);Tom is talking about the fee.;n-32;fee
+(H);A rose bush has prickly thorns.;1;thorns
+(L);We should have considered the juice.;2;juice
+(H);The fruit was shipped in wooden crates.;3;crates
+(L);Bob could have known about the spoon.;4;spoon
+(H);Ruth poured the water down the drain.;5;drain
+(H);The boy gave the football a kick.;6;kick
+(L);Bill might discuss the foam.;7;foam
+(H);The cop wore a bullet-proof vest.;8;vest
+(L);Tom could not discuss the barn.;9;barn
+(L);You were considering the gang.;10;gang
+(H);After his bath he wore a robe.;11;robe
+(L);"Nancy should consider the fist.					";12;fist
+(H);I cannot guess, so give me a hint.;13;hint
+(H);The soup was served in a bowl.;14;bowl
+(L);I have spoken about the pile.;15;pile
+(L);Jane has a problem with the coin.;16;coin
+(H);The bomb exploded with a blast.;17;blast
+(L);Mary could not discuss the tack.;18;tack
+(L);They have a problem with the limb.;19;limb
+(L);Nancy had considered the sleeves.;20;sleeves
+(H);"Lubricate the bike with grease.					";21;grease
+(H);"The farmer harvested his crop.	";22;crop
+(L);Bill heard Tom called about the coach.;23;coach
+(H);They marched to the beat of the drum.;24;drum
+(H);No one was injured in the crash.;25;crash
+(L);The old man thinks about the mast.;26;mast
+(H);The sailor swabbed the deck.;27;deck
+(L);Tom will discuss the swan.;28;swan
+(L);Ann was interested in the breath.;29;breath
+(H);This nozzle sprays a fine mist.;30;mist
+(L);Ruth hopes he heard about the hips.;31;hips
+(L);Tom is talking about the fee.;32;fee
