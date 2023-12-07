@@ -1,0 +1,361 @@
+,sound,condition,response,predictability,sentences,response_words,sentence_words,word_count
+335,1,b,the boy gave the football a kick,(H),a rose bush has prickly thorns.,"['the', 'boy', 'gave', 'the', 'football', 'a', 'kick']","['a', 'rose', 'bush', 'has', 'prickly', 'thorns', '.']",1
+336,1,b,a lord pushes ,(H),a rose bush has prickly thorns.,"['a', 'lord', 'pushes']","['a', 'rose', 'bush', 'has', 'prickly', 'thorns', '.']",1
+334,1,a,a rosebush have prickley thornes,(H),a rose bush has prickly thorns.,"['a', 'rosebush', 'have', 'prickly', 'thorns']","['a', 'rose', 'bush', 'has', 'prickly', 'thorns', '.']",3
+333,1,a,a rosebush has prickly thorns,(H),a rose bush has prickly thorns.,"['a', 'rosebush', 'has', 'prickly', 'thorns']","['a', 'rose', 'bush', 'has', 'prickly', 'thorns', '.']",4
+332,1,a,a rose          soon,(H),a rose bush has prickly thorns.,"['a', 'rose', 'soon']","['a', 'rose', 'bush', 'has', 'prickly', 'thorns', '.']",2
+331,1,a,the rose bushes quickly thorns.,(H),a rose bush has prickly thorns.,"['the', 'rose', 'bushes', 'quickly', 'thorns', '.']","['a', 'rose', 'bush', 'has', 'prickly', 'thorns', '.']",3
+339,1,b,i have spoken about the pile,(H),a rose bush has prickly thorns.,"['i', 'have', 'spoken', 'about', 'the', 'pile']","['a', 'rose', 'bush', 'has', 'prickly', 'thorns', '.']",0
+337,1,b,you are considering the gag,(H),a rose bush has prickly thorns.,"['you', 'are', 'considering', 'the', 'gag']","['a', 'rose', 'bush', 'has', 'prickly', 'thorns', '.']",0
+330,1,a,a rosebush has pricky thorns,(H),a rose bush has prickly thorns.,"['a', 'rosebush', 'has', 'prick', 'thorns']","['a', 'rose', 'bush', 'has', 'prickly', 'thorns', '.']",3
+338,1,b,bill might discuss the firm,(H),a rose bush has prickly thorns.,"['bill', 'might', 'discuss', 'the', 'firm']","['a', 'rose', 'bush', 'has', 'prickly', 'thorns', '.']",0
+40,10,a,you are considering the gang,(L),you were considering the gang.,"['you', 'are', 'considering', 'the', 'gang']","['you', 'were', 'considering', 'the', 'gang', '.']",4
+41,10,a,you are considering the gang.,(L),you were considering the gang.,"['you', 'are', 'considering', 'the', 'gang', '.']","['you', 'were', 'considering', 'the', 'gang', '.']",5
+42,10,a,you are considering the gum.,(L),you were considering the gang.,"['you', 'are', 'considering', 'the', 'gum', '.']","['you', 'were', 'considering', 'the', 'gang', '.']",4
+43,10,a,you are considering the gang,(L),you were considering the gang.,"['you', 'are', 'considering', 'the', 'gang']","['you', 'were', 'considering', 'the', 'gang', '.']",4
+48,10,b,the sailor swapped the deck,(L),you were considering the gang.,"['the', 'sailor', 'swapped', 'the', 'deck']","['you', 'were', 'considering', 'the', 'gang', '.']",2
+46,10,b,you are considering the game,(L),you were considering the gang.,"['you', 'are', 'considering', 'the', 'game']","['you', 'were', 'considering', 'the', 'gang', '.']",3
+45,10,b,they marched to the beat of the drum,(L),you were considering the gang.,"['they', 'marched', 'to', 'the', 'beat', 'of', 'the', 'drum']","['you', 'were', 'considering', 'the', 'gang', '.']",2
+49,10,b,the bomb exploded with a blast,(L),you were considering the gang.,"['the', 'bomb', 'exploded', 'with', 'a', 'blast']","['you', 'were', 'considering', 'the', 'gang', '.']",1
+44,10,a,you are considering the gang,(L),you were considering the gang.,"['you', 'are', 'considering', 'the', 'gang']","['you', 'were', 'considering', 'the', 'gang', '.']",4
+47,10,b,bill heard tom call about the coach,(L),you were considering the gang.,"['bill', 'heard', 'tom', 'call', 'about', 'the', 'coach']","['you', 'were', 'considering', 'the', 'gang', '.']",1
+289,11,b,they have a problem with the lem,(H),after his bath he wore a robe.,"['they', 'have', 'a', 'problem', 'with', 'the', 'lem']","['after', 'his', 'bath', 'he', 'wore', 'a', 'robe', '.']",1
+288,11,b,the old man thinks about the must,(H),after his bath he wore a robe.,"['the', 'old', 'man', 'thinks', 'about', 'the', 'must']","['after', 'his', 'bath', 'he', 'wore', 'a', 'robe', '.']",0
+287,11,b,jame has a problem with a coin,(H),after his bath he wore a robe.,"['came', 'has', 'a', 'problem', 'with', 'a', 'coin']","['after', 'his', 'bath', 'he', 'wore', 'a', 'robe', '.']",2
+286,11,b,,(H),after his bath he wore a robe.,[],"['after', 'his', 'bath', 'he', 'wore', 'a', 'robe', '.']",0
+285,11,b,we should have considered the proof,(H),after his bath he wore a robe.,"['we', 'should', 'have', 'considered', 'the', 'proof']","['after', 'his', 'bath', 'he', 'wore', 'a', 'robe', '.']",0
+283,11,a,after his bath he wore a robe,(H),after his bath he wore a robe.,"['after', 'his', 'bath', 'he', 'wore', 'a', 'robe']","['after', 'his', 'bath', 'he', 'wore', 'a', 'robe', '.']",7
+282,11,a,after his bath he wore a robe.,(H),after his bath he wore a robe.,"['after', 'his', 'bath', 'he', 'wore', 'a', 'robe', '.']","['after', 'his', 'bath', 'he', 'wore', 'a', 'robe', '.']",8
+281,11,a,after this party wore a robe.,(H),after his bath he wore a robe.,"['after', 'this', 'party', 'wore', 'a', 'robe', '.']","['after', 'his', 'bath', 'he', 'wore', 'a', 'robe', '.']",5
+280,11,a,after his bath he wore a rope,(H),after his bath he wore a robe.,"['after', 'his', 'bath', 'he', 'wore', 'a', 'rope']","['after', 'his', 'bath', 'he', 'wore', 'a', 'robe', '.']",6
+284,11,a,"after his bath, he wore a robe",(H),after his bath he wore a robe.,"['after', 'his', 'bath', ',', 'he', 'wore', 'a', 'robe']","['after', 'his', 'bath', 'he', 'wore', 'a', 'robe', '.']",7
+150,12,a,nancy should consider the fist,(L),nancy should consider the fist.					,"['nancy', 'should', 'consider', 'the', 'fist']","['nancy', 'should', 'consider', 'the', 'fist', '.']",5
+157,12,b,the rose bush has prickly thorns,(L),nancy should consider the fist.					,"['the', 'rose', 'bush', 'has', 'prickly', 'thorns']","['nancy', 'should', 'consider', 'the', 'fist', '.']",1
+156,12,b,nancy should consider the guest,(L),nancy should consider the fist.					,"['nancy', 'should', 'consider', 'the', 'guest']","['nancy', 'should', 'consider', 'the', 'fist', '.']",4
+155,12,b,bob could have known about the squeal,(L),nancy should consider the fist.					,"['bob', 'could', 'have', 'known', 'about', 'the', 'squeal']","['nancy', 'should', 'consider', 'the', 'fist', '.']",1
+154,12,a,nancy should consider the fist,(L),nancy should consider the fist.					,"['nancy', 'should', 'consider', 'the', 'fist']","['nancy', 'should', 'consider', 'the', 'fist', '.']",5
+159,12,b,the sailor swapped the deck,(L),nancy should consider the fist.					,"['the', 'sailor', 'swapped', 'the', 'deck']","['nancy', 'should', 'consider', 'the', 'fist', '.']",2
+158,12,b,jane has a problem with the coins,(L),nancy should consider the fist.					,"['jane', 'has', 'a', 'problem', 'with', 'the', 'coins']","['nancy', 'should', 'consider', 'the', 'fist', '.']",1
+152,12,a,nancy should consider the fess.,(L),nancy should consider the fist.					,"['nancy', 'should', 'consider', 'the', 'fess', '.']","['nancy', 'should', 'consider', 'the', 'fist', '.']",5
+151,12,a,nancy should consider a fist.,(L),nancy should consider the fist.					,"['nancy', 'should', 'consider', 'a', 'fist', '.']","['nancy', 'should', 'consider', 'the', 'fist', '.']",5
+153,12,a,nancy should have considered the fist,(L),nancy should consider the fist.					,"['nancy', 'should', 'have', 'considered', 'the', 'fist']","['nancy', 'should', 'consider', 'the', 'fist', '.']",4
+80,13,a,"i can't guess, so give me a hint",(H),"i cannot guess, so give me a hint.","['i', 'ca', 'not', 'guess', ',', 'so', 'give', 'me', 'a', 'hint']","['i', 'can', 'not', 'guess', ',', 'so', 'give', 'me', 'a', 'hint', '.']",9
+82,13,a,"i count this, so give me a hint.",(H),"i cannot guess, so give me a hint.","['i', 'count', 'this', ',', 'so', 'give', 'me', 'a', 'hint', '.']","['i', 'can', 'not', 'guess', ',', 'so', 'give', 'me', 'a', 'hint', '.']",8
+83,13,a,i can't guess so give me a hint,(H),"i cannot guess, so give me a hint.","['i', 'ca', 'not', 'guess', 'so', 'give', 'me', 'a', 'hint']","['i', 'can', 'not', 'guess', ',', 'so', 'give', 'me', 'a', 'hint', '.']",8
+84,13,a,i cant guess so give me a hint,(H),"i cannot guess, so give me a hint.","['i', 'cant', 'guess', 'so', 'give', 'me', 'a', 'hint']","['i', 'can', 'not', 'guess', ',', 'so', 'give', 'me', 'a', 'hint', '.']",7
+85,13,b,ruth hopes he heard about the hips,(H),"i cannot guess, so give me a hint.","['ruth', 'hopes', 'he', 'heard', 'about', 'the', 'hips']","['i', 'can', 'not', 'guess', ',', 'so', 'give', 'me', 'a', 'hint', '.']",0
+86,13,b,"i can't guess, so give me a hint",(H),"i cannot guess, so give me a hint.","['i', 'ca', 'not', 'guess', ',', 'so', 'give', 'me', 'a', 'hint']","['i', 'can', 'not', 'guess', ',', 'so', 'give', 'me', 'a', 'hint', '.']",9
+87,13,b,this nozzle sprays a fine mist,(H),"i cannot guess, so give me a hint.","['this', 'nozzle', 'sprays', 'a', 'fine', 'mist']","['i', 'can', 'not', 'guess', ',', 'so', 'give', 'me', 'a', 'hint', '.']",1
+81,13,a,i can't guess so give me a hint.,(H),"i cannot guess, so give me a hint.","['i', 'ca', 'not', 'guess', 'so', 'give', 'me', 'a', 'hint', '.']","['i', 'can', 'not', 'guess', ',', 'so', 'give', 'me', 'a', 'hint', '.']",9
+89,13,b,nancy should consider the fish,(H),"i cannot guess, so give me a hint.","['nancy', 'should', 'consider', 'the', 'fish']","['i', 'can', 'not', 'guess', ',', 'so', 'give', 'me', 'a', 'hint', '.']",0
+88,13,b,mary could not discuss the tag,(H),"i cannot guess, so give me a hint.","['mary', 'could', 'not', 'discuss', 'the', 'tag']","['i', 'can', 'not', 'guess', ',', 'so', 'give', 'me', 'a', 'hint', '.']",1
+359,14,b,tom is talking about the fee,(H),the soup was served in a bowl.,"['tom', 'is', 'talking', 'about', 'the', 'fee']","['the', 'soup', 'was', 'served', 'in', 'a', 'bowl', '.']",1
+357,14,b,bill might discuss the fern,(H),the soup was served in a bowl.,"['bill', 'might', 'discuss', 'the', 'fern']","['the', 'soup', 'was', 'served', 'in', 'a', 'bowl', '.']",1
+356,14,b,a soup was served with bowl,(H),the soup was served in a bowl.,"['a', 'soup', 'was', 'served', 'with', 'bowl']","['the', 'soup', 'was', 'served', 'in', 'a', 'bowl', '.']",5
+355,14,b,tom will discuss the swan,(H),the soup was served in a bowl.,"['tom', 'will', 'discuss', 'the', 'swan']","['the', 'soup', 'was', 'served', 'in', 'a', 'bowl', '.']",1
+354,14,a,the soup was served i a bowl,(H),the soup was served in a bowl.,"['the', 'soup', 'was', 'served', 'i', 'a', 'bowl']","['the', 'soup', 'was', 'served', 'in', 'a', 'bowl', '.']",6
+353,14,a,the soup was served in a bowl,(H),the soup was served in a bowl.,"['the', 'soup', 'was', 'served', 'in', 'a', 'bowl']","['the', 'soup', 'was', 'served', 'in', 'a', 'bowl', '.']",7
+352,14,a,the soup is served in the boul.,(H),the soup was served in a bowl.,"['the', 'soup', 'is', 'served', 'in', 'the', 'soul', '.']","['the', 'soup', 'was', 'served', 'in', 'a', 'bowl', '.']",6
+351,14,a,the soup was served in a bowl.,(H),the soup was served in a bowl.,"['the', 'soup', 'was', 'served', 'in', 'a', 'bowl', '.']","['the', 'soup', 'was', 'served', 'in', 'a', 'bowl', '.']",8
+350,14,a,the soup was served in a bowl,(H),the soup was served in a bowl.,"['the', 'soup', 'was', 'served', 'in', 'a', 'bowl']","['the', 'soup', 'was', 'served', 'in', 'a', 'bowl', '.']",7
+358,14,b,the rosebush has pricky thorns,(H),the soup was served in a bowl.,"['the', 'rosebush', 'has', 'prick', 'thorns']","['the', 'soup', 'was', 'served', 'in', 'a', 'bowl', '.']",1
+320,15,a,i've spoken about the pile,(L),i have spoken about the pile.,"['i', ""i've"", 'spoken', 'about', 'the', 'pile']","['i', 'have', 'spoken', 'about', 'the', 'pile', '.']",5
+321,15,a,i have spoken about the pile.,(L),i have spoken about the pile.,"['i', 'have', 'spoken', 'about', 'the', 'pile', '.']","['i', 'have', 'spoken', 'about', 'the', 'pile', '.']",7
+322,15,a,i've spoken about the pile.,(L),i have spoken about the pile.,"['i', ""i've"", 'spoken', 'about', 'the', 'pile', '.']","['i', 'have', 'spoken', 'about', 'the', 'pile', '.']",6
+323,15,a,i've spoken about the pile,(L),i have spoken about the pile.,"['i', ""i've"", 'spoken', 'about', 'the', 'pile']","['i', 'have', 'spoken', 'about', 'the', 'pile', '.']",5
+324,15,a,i've spoken about the pile,(L),i have spoken about the pile.,"['i', ""i've"", 'spoken', 'about', 'the', 'pile']","['i', 'have', 'spoken', 'about', 'the', 'pile', '.']",5
+325,15,b,i'd spoken about the pile,(L),i have spoken about the pile.,"['i', ""i'd"", 'spoken', 'about', 'the', 'pile']","['i', 'have', 'spoken', 'about', 'the', 'pile', '.']",5
+326,15,b,i spoke about the tile,(L),i have spoken about the pile.,"['i', 'spoke', 'about', 'the', 'tile']","['i', 'have', 'spoken', 'about', 'the', 'pile', '.']",3
+327,15,b,they have a problem with the limb,(L),i have spoken about the pile.,"['they', 'have', 'a', 'problem', 'with', 'the', 'limb']","['i', 'have', 'spoken', 'about', 'the', 'pile', '.']",2
+329,15,b,ann was interested in the breath,(L),i have spoken about the pile.,"['ann', 'was', 'interested', 'in', 'the', 'breath']","['i', 'have', 'spoken', 'about', 'the', 'pile', '.']",1
+328,15,b,bill had tom called about the coach,(L),i have spoken about the pile.,"['bill', 'had', 'tom', 'called', 'about', 'the', 'coach']","['i', 'have', 'spoken', 'about', 'the', 'pile', '.']",2
+144,16,a,jane have a problem with a kind,(L),jane has a problem with the coin.,"['jane', 'have', 'a', 'problem', 'with', 'a', 'kind']","['jane', 'has', 'a', 'problem', 'with', 'the', 'coin', '.']",5
+142,16,a,chain has a problem with a coin.,(L),jane has a problem with the coin.,"['chain', 'has', 'a', 'problem', 'with', 'a', 'coin', '.']","['jane', 'has', 'a', 'problem', 'with', 'the', 'coin', '.']",7
+143,16,a,jane has a problem with a coin,(L),jane has a problem with the coin.,"['jane', 'has', 'a', 'problem', 'with', 'a', 'coin']","['jane', 'has', 'a', 'problem', 'with', 'the', 'coin', '.']",7
+145,16,b,after his bath he wore a robe,(L),jane has a problem with the coin.,"['after', 'his', 'bath', 'he', 'wore', 'a', 'robe']","['jane', 'has', 'a', 'problem', 'with', 'the', 'coin', '.']",1
+149,16,b,will might discuss defoe,(L),jane has a problem with the coin.,"['will', 'might', 'discuss', 'defne']","['jane', 'has', 'a', 'problem', 'with', 'the', 'coin', '.']",0
+147,16,b,the old man thinks about the mast,(L),jane has a problem with the coin.,"['the', 'old', 'man', 'thinks', 'about', 'the', 'mast']","['jane', 'has', 'a', 'problem', 'with', 'the', 'coin', '.']",2
+148,16,b,the bomb exploded with a blast,(L),jane has a problem with the coin.,"['the', 'bomb', 'exploded', 'with', 'a', 'blast']","['jane', 'has', 'a', 'problem', 'with', 'the', 'coin', '.']",3
+141,16,a,jane has a problem with a coin.,(L),jane has a problem with the coin.,"['jane', 'has', 'a', 'problem', 'with', 'a', 'coin', '.']","['jane', 'has', 'a', 'problem', 'with', 'the', 'coin', '.']",8
+146,16,b,jane has a problem with a coin,(L),jane has a problem with the coin.,"['jane', 'has', 'a', 'problem', 'with', 'a', 'coin']","['jane', 'has', 'a', 'problem', 'with', 'the', 'coin', '.']",7
+140,16,a,jane has a problem with the coin,(L),jane has a problem with the coin.,"['jane', 'has', 'a', 'problem', 'with', 'the', 'coin']","['jane', 'has', 'a', 'problem', 'with', 'the', 'coin', '.']",7
+18,17,b,we should have considered the juice,(H),the bomb exploded with a blast.,"['we', 'should', 'have', 'considered', 'the', 'juice']","['the', 'bomb', 'exploded', 'with', 'a', 'blast', '.']",1
+11,17,a,the bomb exploded with a blast.,(H),the bomb exploded with a blast.,"['the', 'bomb', 'exploded', 'with', 'a', 'blast', '.']","['the', 'bomb', 'exploded', 'with', 'a', 'blast', '.']",7
+12,17,a,the bomb exploded the glass.,(H),the bomb exploded with a blast.,"['the', 'bomb', 'exploded', 'the', 'glass', '.']","['the', 'bomb', 'exploded', 'with', 'a', 'blast', '.']",5
+13,17,a,the bomb exploded with a blast,(H),the bomb exploded with a blast.,"['the', 'bomb', 'exploded', 'with', 'a', 'blast']","['the', 'bomb', 'exploded', 'with', 'a', 'blast', '.']",6
+14,17,a,the bomb expolded with a blast,(H),the bomb exploded with a blast.,"['the', 'bomb', 'exploded', 'with', 'a', 'blast']","['the', 'bomb', 'exploded', 'with', 'a', 'blast', '.']",6
+15,17,b,we should have considered the juice,(H),the bomb exploded with a blast.,"['we', 'should', 'have', 'considered', 'the', 'juice']","['the', 'bomb', 'exploded', 'with', 'a', 'blast', '.']",1
+16,17,b,the bomb explored with blast,(H),the bomb exploded with a blast.,"['the', 'bomb', 'explored', 'with', 'blast']","['the', 'bomb', 'exploded', 'with', 'a', 'blast', '.']",4
+17,17,b,a bomb is exploding for the blast,(H),the bomb exploded with a blast.,"['a', 'bomb', 'is', 'exploding', 'for', 'the', 'blast']","['the', 'bomb', 'exploded', 'with', 'a', 'blast', '.']",4
+19,17,b,a rose bush has prickly thorns,(H),the bomb exploded with a blast.,"['a', 'rose', 'bush', 'has', 'prickly', 'thorns']","['the', 'bomb', 'exploded', 'with', 'a', 'blast', '.']",1
+10,17,a,the bomb exploded with a blast,(H),the bomb exploded with a blast.,"['the', 'bomb', 'exploded', 'with', 'a', 'blast']","['the', 'bomb', 'exploded', 'with', 'a', 'blast', '.']",6
+0,18,a,mary could not discuss the thing,(L),mary could not discuss the tack.,"['mary', 'could', 'not', 'discuss', 'the', 'thing']","['mary', 'could', 'not', 'discuss', 'the', 'tack', '.']",5
+9,18,b,we should have considered the jews,(L),mary could not discuss the tack.,"['we', 'should', 'have', 'considered', 'the', 'jews']","['mary', 'could', 'not', 'discuss', 'the', 'tack', '.']",1
+8,18,b,mary could not discuss the tag,(L),mary could not discuss the tack.,"['mary', 'could', 'not', 'discuss', 'the', 'tag']","['mary', 'could', 'not', 'discuss', 'the', 'tack', '.']",5
+7,18,b,a rose bush has pricky thorns,(L),mary could not discuss the tack.,"['a', 'rose', 'bush', 'has', 'prick', 'thorns']","['mary', 'could', 'not', 'discuss', 'the', 'tack', '.']",0
+6,18,b,marry could not discuss the tax,(L),mary could not discuss the tack.,"['marry', 'could', 'not', 'discuss', 'the', 'tax']","['mary', 'could', 'not', 'discuss', 'the', 'tack', '.']",4
+5,18,b,a rose bush has prickly thorns,(L),mary could not discuss the tack.,"['a', 'rose', 'bush', 'has', 'prickly', 'thorns']","['mary', 'could', 'not', 'discuss', 'the', 'tack', '.']",0
+4,18,a,marry could just discuss the tag,(L),mary could not discuss the tack.,"['marry', 'could', 'just', 'discuss', 'the', 'tag']","['mary', 'could', 'not', 'discuss', 'the', 'tack', '.']",3
+3,18,a,mary could not discuss the tag,(L),mary could not discuss the tack.,"['mary', 'could', 'not', 'discuss', 'the', 'tag']","['mary', 'could', 'not', 'discuss', 'the', 'tack', '.']",5
+2,18,a,could know discuss the tug,(L),mary could not discuss the tack.,"['could', 'know', 'discuss', 'the', 'tug']","['mary', 'could', 'not', 'discuss', 'the', 'tack', '.']",3
+1,18,a,marry could not distract attack.,(L),mary could not discuss the tack.,"['marry', 'could', 'not', 'distract', 'attack', '.']","['mary', 'could', 'not', 'discuss', 'the', 'tack', '.']",3
+91,2,a,she should have considered the duce.,(L),we should have considered the juice.,"['she', 'should', 'have', 'considered', 'the', 'due', '.']","['we', 'should', 'have', 'considered', 'the', 'juice', '.']",5
+90,2,a,we should have considered the juice,(L),we should have considered the juice.,"['we', 'should', 'have', 'considered', 'the', 'juice']","['we', 'should', 'have', 'considered', 'the', 'juice', '.']",6
+98,2,b,"i can't guess, so give me a hint",(L),we should have considered the juice.,"['i', 'ca', 'not', 'guess', ',', 'so', 'give', 'me', 'a', 'hint']","['we', 'should', 'have', 'considered', 'the', 'juice', '.']",0
+97,2,b,we should have considered the juice,(L),we should have considered the juice.,"['we', 'should', 'have', 'considered', 'the', 'juice']","['we', 'should', 'have', 'considered', 'the', 'juice', '.']",6
+96,2,b,we should consider the juice,(L),we should have considered the juice.,"['we', 'should', 'consider', 'the', 'juice']","['we', 'should', 'have', 'considered', 'the', 'juice', '.']",4
+95,2,b,this nozzle sprays a fine mist,(L),we should have considered the juice.,"['this', 'nozzle', 'sprays', 'a', 'fine', 'mist']","['we', 'should', 'have', 'considered', 'the', 'juice', '.']",0
+94,2,a,we should have considered the foam,(L),we should have considered the juice.,"['we', 'should', 'have', 'considered', 'the', 'foam']","['we', 'should', 'have', 'considered', 'the', 'juice', '.']",5
+93,2,a,we should have considered the juice,(L),we should have considered the juice.,"['we', 'should', 'have', 'considered', 'the', 'juice']","['we', 'should', 'have', 'considered', 'the', 'juice', '.']",6
+92,2,a,consider the juice,(L),we should have considered the juice.,"['consider', 'the', 'juice']","['we', 'should', 'have', 'considered', 'the', 'juice', '.']",2
+99,2,b,the cop wore a bulletproof west,(L),we should have considered the juice.,"['the', 'cop', 'wore', 'a', 'bulletproof', 'west']","['we', 'should', 'have', 'considered', 'the', 'juice', '.']",1
+300,3,a,the fruit was shipped in wooden crates,(H),the fruit was shipped in wooden crates.,"['the', 'fruit', 'was', 'shipped', 'in', 'wooden', 'crates']","['the', 'fruit', 'was', 'shipped', 'in', 'wooden', 'crates', '.']",7
+301,3,a,the fruit was shipped in wooden crates.,(H),the fruit was shipped in wooden crates.,"['the', 'fruit', 'was', 'shipped', 'in', 'wooden', 'crates', '.']","['the', 'fruit', 'was', 'shipped', 'in', 'wooden', 'crates', '.']",8
+302,3,a,the fruit was shipped wouldn't cries.,(H),the fruit was shipped in wooden crates.,"['the', 'fruit', 'was', 'shipped', 'would', 'not', 'cries', '.']","['the', 'fruit', 'was', 'shipped', 'in', 'wooden', 'crates', '.']",5
+303,3,a,the fruit was shipped in wooden crates',(H),the fruit was shipped in wooden crates.,"['the', 'fruit', 'was', 'shipped', 'in', 'wooden', 'crates', ""'""]","['the', 'fruit', 'was', 'shipped', 'in', 'wooden', 'crates', '.']",7
+304,3,a,the fraigth was shipped i wooden crates,(H),the fruit was shipped in wooden crates.,"['the', 'faith', 'was', 'shipped', 'i', 'wooden', 'crates']","['the', 'fruit', 'was', 'shipped', 'in', 'wooden', 'crates', '.']",5
+306,3,b,the fruit was shipped,(H),the fruit was shipped in wooden crates.,"['the', 'fruit', 'was', 'shipped']","['the', 'fruit', 'was', 'shipped', 'in', 'wooden', 'crates', '.']",4
+307,3,b,no one was injured in the crash,(H),the fruit was shipped in wooden crates.,"['no', 'one', 'was', 'injured', 'in', 'the', 'crash']","['the', 'fruit', 'was', 'shipped', 'in', 'wooden', 'crates', '.']",3
+308,3,b,we should have considered the juice,(H),the fruit was shipped in wooden crates.,"['we', 'should', 'have', 'considered', 'the', 'juice']","['the', 'fruit', 'was', 'shipped', 'in', 'wooden', 'crates', '.']",1
+305,3,b,i can't guess so give me a hint,(H),the fruit was shipped in wooden crates.,"['i', 'ca', 'not', 'guess', 'so', 'give', 'me', 'a', 'hint']","['the', 'fruit', 'was', 'shipped', 'in', 'wooden', 'crates', '.']",0
+309,3,b,the farmer harvested his crop,(H),the fruit was shipped in wooden crates.,"['the', 'farmer', 'harvested', 'his', 'crop']","['the', 'fruit', 'was', 'shipped', 'in', 'wooden', 'crates', '.']",1
+250,4,a,bob could have known about the spoon,(L),bob could have known about the spoon.,"['bob', 'could', 'have', 'known', 'about', 'the', 'spoon']","['bob', 'could', 'have', 'known', 'about', 'the', 'spoon', '.']",7
+253,4,a,bob could have known about the spoon,(L),bob could have known about the spoon.,"['bob', 'could', 'have', 'known', 'about', 'the', 'spoon']","['bob', 'could', 'have', 'known', 'about', 'the', 'spoon', '.']",7
+254,4,a,mom could have known about the spoon,(L),bob could have known about the spoon.,"['mom', 'could', 'have', 'known', 'about', 'the', 'spoon']","['bob', 'could', 'have', 'known', 'about', 'the', 'spoon', '.']",6
+255,4,b,mary could not discuss the tack,(L),bob could have known about the spoon.,"['mary', 'could', 'not', 'discuss', 'the', 'tack']","['bob', 'could', 'have', 'known', 'about', 'the', 'spoon', '.']",2
+256,4,b,bob could know about the spoon ,(L),bob could have known about the spoon.,"['bob', 'could', 'know', 'about', 'the', 'spoon']","['bob', 'could', 'have', 'known', 'about', 'the', 'spoon', '.']",5
+257,4,b,the sailor swabbed the deck,(L),bob could have known about the spoon.,"['the', 'sailor', 'swabbed', 'the', 'deck']","['bob', 'could', 'have', 'known', 'about', 'the', 'spoon', '.']",2
+258,4,b,you were considering the gang,(L),bob could have known about the spoon.,"['you', 'were', 'considering', 'the', 'gang']","['bob', 'could', 'have', 'known', 'about', 'the', 'spoon', '.']",1
+259,4,b,mary could not discuss the tac,(L),bob could have known about the spoon.,"['mary', 'could', 'not', 'discuss', 'the', 'tac']","['bob', 'could', 'have', 'known', 'about', 'the', 'spoon', '.']",2
+251,4,a,bob could have known about the spoon.,(L),bob could have known about the spoon.,"['bob', 'could', 'have', 'known', 'about', 'the', 'spoon', '.']","['bob', 'could', 'have', 'known', 'about', 'the', 'spoon', '.']",8
+252,4,a,folk could know about the spoon.,(L),bob could have known about the spoon.,"['folk', 'could', 'know', 'about', 'the', 'spoon', '.']","['bob', 'could', 'have', 'known', 'about', 'the', 'spoon', '.']",5
+292,5,a,roof poured down       the rain,(H),ruth poured the water down the drain.,"['roof', 'poured', 'down', 'the', 'rain']","['ruth', 'poured', 'the', 'water', 'down', 'the', 'drain', '.']",3
+298,5,b,after his bath he wore a robe,(H),ruth poured the water down the drain.,"['after', 'his', 'bath', 'he', 'wore', 'a', 'robe']","['ruth', 'poured', 'the', 'water', 'down', 'the', 'drain', '.']",0
+297,5,b,nancy had considered the sleeves,(H),ruth poured the water down the drain.,"['nancy', 'had', 'considered', 'the', 'sleeves']","['ruth', 'poured', 'the', 'water', 'down', 'the', 'drain', '.']",1
+296,5,b,the roof coat down with rain,(H),ruth poured the water down the drain.,"['the', 'roof', 'coat', 'down', 'with', 'rain']","['ruth', 'poured', 'the', 'water', 'down', 'the', 'drain', '.']",2
+295,5,b,the fruit was shipped in wooden crates,(H),ruth poured the water down the drain.,"['the', 'fruit', 'was', 'shipped', 'in', 'wooden', 'crates']","['ruth', 'poured', 'the', 'water', 'down', 'the', 'drain', '.']",1
+294,5,a,roof poured the water down the drain,(H),ruth poured the water down the drain.,"['roof', 'poured', 'the', 'water', 'down', 'the', 'drain']","['ruth', 'poured', 'the', 'water', 'down', 'the', 'drain', '.']",6
+293,5,a,ruth poured the water down the drain,(H),ruth poured the water down the drain.,"['ruth', 'poured', 'the', 'water', 'down', 'the', 'drain']","['ruth', 'poured', 'the', 'water', 'down', 'the', 'drain', '.']",7
+290,5,a,roof pour the water down the drain,(H),ruth poured the water down the drain.,"['roof', 'pour', 'the', 'water', 'down', 'the', 'drain']","['ruth', 'poured', 'the', 'water', 'down', 'the', 'drain', '.']",5
+299,5,b,the food was shipped in wooden crates,(H),ruth poured the water down the drain.,"['the', 'food', 'was', 'shipped', 'in', 'wooden', 'crates']","['ruth', 'poured', 'the', 'water', 'down', 'the', 'drain', '.']",1
+291,5,a,ruth poured the water down the drain.,(H),ruth poured the water down the drain.,"['ruth', 'poured', 'the', 'water', 'down', 'the', 'drain', '.']","['ruth', 'poured', 'the', 'water', 'down', 'the', 'drain', '.']",8
+189,6,b,tom will discuss the svane(på engelsk) <3. swarn. det forkert stavet,(H),the boy gave the football a kick.,"['tom', 'will', 'discuss', 'the', 'sane', '(', 'pa', 'angels', ')', '<', '3', '.', 'warn', '.', 'det', 'forget', 'stave']","['the', 'boy', 'gave', 'the', 'football', 'a', 'kick', '.']",3
+188,6,b,tom could not discuss the bar,(H),the boy gave the football a kick.,"['tom', 'could', 'not', 'discuss', 'the', 'bar']","['the', 'boy', 'gave', 'the', 'football', 'a', 'kick', '.']",1
+187,6,b,the bomb exploded with a blast,(H),the boy gave the football a kick.,"['the', 'bomb', 'exploded', 'with', 'a', 'blast']","['the', 'boy', 'gave', 'the', 'football', 'a', 'kick', '.']",2
+186,6,b,a boy ate a football cake,(H),the boy gave the football a kick.,"['a', 'boy', 'ate', 'a', 'football', 'cake']","['the', 'boy', 'gave', 'the', 'football', 'a', 'kick', '.']",4
+185,6,b,lubricate the bike with grease,(H),the boy gave the football a kick.,"['lubricate', 'the', 'bike', 'with', 'grease']","['the', 'boy', 'gave', 'the', 'football', 'a', 'kick', '.']",1
+184,6,a,the boy gave the football a kick,(H),the boy gave the football a kick.,"['the', 'boy', 'gave', 'the', 'football', 'a', 'kick']","['the', 'boy', 'gave', 'the', 'football', 'a', 'kick', '.']",7
+183,6,a,the boy gave the football a kick,(H),the boy gave the football a kick.,"['the', 'boy', 'gave', 'the', 'football', 'a', 'kick']","['the', 'boy', 'gave', 'the', 'football', 'a', 'kick', '.']",7
+182,6,a,the boy gave the football the cake.,(H),the boy gave the football a kick.,"['the', 'boy', 'gave', 'the', 'football', 'the', 'cake', '.']","['the', 'boy', 'gave', 'the', 'football', 'a', 'kick', '.']",7
+180,6,a,the boy gave the football a kick,(H),the boy gave the football a kick.,"['the', 'boy', 'gave', 'the', 'football', 'a', 'kick']","['the', 'boy', 'gave', 'the', 'football', 'a', 'kick', '.']",7
+181,6,a,the boy gave the football a kick.,(H),the boy gave the football a kick.,"['the', 'boy', 'gave', 'the', 'football', 'a', 'kick', '.']","['the', 'boy', 'gave', 'the', 'football', 'a', 'kick', '.']",8
+269,7,b,i cant guess so give me a hint,(L),bill might discuss the foam.,"['i', 'cant', 'guess', 'so', 'give', 'me', 'a', 'hint']","['bill', 'might', 'discuss', 'the', 'foam', '.']",0
+268,7,b,lubricate the bike with grease,(L),bill might discuss the foam.,"['lubricate', 'the', 'bike', 'with', 'grease']","['bill', 'might', 'discuss', 'the', 'foam', '.']",1
+267,7,b,tom could not discuss the bark,(L),bill might discuss the foam.,"['tom', 'could', 'not', 'discuss', 'the', 'bark']","['bill', 'might', 'discuss', 'the', 'foam', '.']",2
+261,7,a,we might discuss the phone.,(L),bill might discuss the foam.,"['we', 'might', 'discuss', 'the', 'phone', '.']","['bill', 'might', 'discuss', 'the', 'foam', '.']",4
+266,7,b,will my discuss the phone,(L),bill might discuss the foam.,"['will', 'my', 'discuss', 'the', 'phone']","['bill', 'might', 'discuss', 'the', 'foam', '.']",2
+265,7,b,nancy could consider the fist,(L),bill might discuss the foam.,"['nancy', 'could', 'consider', 'the', 'fist']","['bill', 'might', 'discuss', 'the', 'foam', '.']",1
+264,7,a,will might discuss the foam,(L),bill might discuss the foam.,"['will', 'might', 'discuss', 'the', 'foam']","['bill', 'might', 'discuss', 'the', 'foam', '.']",4
+263,7,a,bill might discuss the foam,(L),bill might discuss the foam.,"['bill', 'might', 'discuss', 'the', 'foam']","['bill', 'might', 'discuss', 'the', 'foam', '.']",5
+260,7,a,bill might discuss the foam,(L),bill might discuss the foam.,"['bill', 'might', 'discuss', 'the', 'foam']","['bill', 'might', 'discuss', 'the', 'foam', '.']",5
+262,7,a,mel might discuss the phone.,(L),bill might discuss the foam.,"['mel', 'might', 'discuss', 'the', 'phone', '.']","['bill', 'might', 'discuss', 'the', 'foam', '.']",4
+229,8,b,the old man thinks about the mast,(H),the cop wore a bullet-proof vest.,"['the', 'old', 'man', 'thinks', 'about', 'the', 'mast']","['the', 'cop', 'wore', 'a', 'bullet-proof', 'vest', '.']",2
+222,8,a,the cupboard was bulled split fast.,(H),the cop wore a bullet-proof vest.,"['the', 'cupboard', 'was', 'bulled', 'split', 'fast', '.']","['the', 'cop', 'wore', 'a', 'bullet-proof', 'vest', '.']",2
+223,8,a,the cop wore a bulletproof vest,(H),the cop wore a bullet-proof vest.,"['the', 'cop', 'wore', 'a', 'bulletproof', 'vest']","['the', 'cop', 'wore', 'a', 'bullet-proof', 'vest', '.']",5
+224,8,a,the cop wore a bulletproof west,(H),the cop wore a bullet-proof vest.,"['the', 'cop', 'wore', 'a', 'bulletproof', 'west']","['the', 'cop', 'wore', 'a', 'bullet-proof', 'vest', '.']",4
+226,8,b,the coke bottle proof about guest,(H),the cop wore a bullet-proof vest.,"['the', 'coke', 'bottle', 'proof', 'about', 'guest']","['the', 'cop', 'wore', 'a', 'bullet-proof', 'vest', '.']",1
+227,8,b,after his bath he wore a robe,(H),the cop wore a bullet-proof vest.,"['after', 'his', 'bath', 'he', 'wore', 'a', 'robe']","['the', 'cop', 'wore', 'a', 'bullet-proof', 'vest', '.']",2
+228,8,b,anne was interested in the breath,(H),the cop wore a bullet-proof vest.,"['anne', 'was', 'interested', 'in', 'the', 'breath']","['the', 'cop', 'wore', 'a', 'bullet-proof', 'vest', '.']",1
+221,8,a,the cop wore bulletproof vest.,(H),the cop wore a bullet-proof vest.,"['the', 'cop', 'wore', 'bulletproof', 'vest', '.']","['the', 'cop', 'wore', 'a', 'bullet-proof', 'vest', '.']",5
+220,8,a,the cop wore a bulletproof west,(H),the cop wore a bullet-proof vest.,"['the', 'cop', 'wore', 'a', 'bulletproof', 'west']","['the', 'cop', 'wore', 'a', 'bullet-proof', 'vest', '.']",4
+225,8,b,nancy had considered the sleeves,(H),the cop wore a bullet-proof vest.,"['nancy', 'had', 'considered', 'the', 'sleeves']","['the', 'cop', 'wore', 'a', 'bullet-proof', 'vest', '.']",1
+134,9,a,tom could not discuss the barn,(L),tom could not discuss the barn.,"['tom', 'could', 'not', 'discuss', 'the', 'barn']","['tom', 'could', 'not', 'discuss', 'the', 'barn', '.']",6
+130,9,a,tom could not discuss the barn,(L),tom could not discuss the barn.,"['tom', 'could', 'not', 'discuss', 'the', 'barn']","['tom', 'could', 'not', 'discuss', 'the', 'barn', '.']",6
+131,9,a,tom could not discuss the barn.,(L),tom could not discuss the barn.,"['tom', 'could', 'not', 'discuss', 'the', 'barn', '.']","['tom', 'could', 'not', 'discuss', 'the', 'barn', '.']",7
+132,9,a,not discuss the burn.,(L),tom could not discuss the barn.,"['not', 'discuss', 'the', 'burn', '.']","['tom', 'could', 'not', 'discuss', 'the', 'barn', '.']",4
+133,9,a,thom could not discuss the barn,(L),tom could not discuss the barn.,"['thom', 'could', 'not', 'discuss', 'the', 'barn']","['tom', 'could', 'not', 'discuss', 'the', 'barn', '.']",5
+135,9,b,the cop wore a bullet proof vest,(L),tom could not discuss the barn.,"['the', 'cop', 'wore', 'a', 'bullet', 'proof', 'vest']","['tom', 'could', 'not', 'discuss', 'the', 'barn', '.']",1
+137,9,b,i have spoken about the pile,(L),tom could not discuss the barn.,"['i', 'have', 'spoken', 'about', 'the', 'pile']","['tom', 'could', 'not', 'discuss', 'the', 'barn', '.']",1
+138,9,b,the cop wore a bulletproof vest,(L),tom could not discuss the barn.,"['the', 'cop', 'wore', 'a', 'bulletproof', 'vest']","['tom', 'could', 'not', 'discuss', 'the', 'barn', '.']",1
+139,9,b,the boy gave the football a kick,(L),tom could not discuss the barn.,"['the', 'boy', 'gave', 'the', 'football', 'a', 'kick']","['tom', 'could', 'not', 'discuss', 'the', 'barn', '.']",2
+136,9,b,tom could not discuss the bomb,(L),tom could not discuss the barn.,"['tom', 'could', 'not', 'discuss', 'the', 'bomb']","['tom', 'could', 'not', 'discuss', 'the', 'barn', '.']",5
+29,n-1,b,mary could not have discussed the tac,(H),a rose bush has prickly thorns.,"['mary', 'could', 'not', 'have', 'discussed', 'the', 'tac']","['a', 'rose', 'bush', 'has', 'prickly', 'thorns', '.']",0
+28,n-1,b,the bomb exploded in a blast.,(H),a rose bush has prickly thorns.,"['the', 'bomb', 'exploded', 'in', 'a', 'blast', '.']","['a', 'rose', 'bush', 'has', 'prickly', 'thorns', '.']",2
+21,n-1,a,the words can't...,(H),a rose bush has prickly thorns.,"['the', 'words', 'ca', 'not', None]","['a', 'rose', 'bush', 'has', 'prickly', 'thorns', '.']",0
+22,n-1,a,the road,(H),a rose bush has prickly thorns.,"['the', 'road']","['a', 'rose', 'bush', 'has', 'prickly', 'thorns', '.']",0
+23,n-1,a,a rose bush has prickly thorns,(H),a rose bush has prickly thorns.,"['a', 'rose', 'bush', 'has', 'prickly', 'thorns']","['a', 'rose', 'bush', 'has', 'prickly', 'thorns', '.']",6
+20,n-1,a,the roses bushes quickly thorns,(H),a rose bush has prickly thorns.,"['the', 'roses', 'bushes', 'quickly', 'thorns']","['a', 'rose', 'bush', 'has', 'prickly', 'thorns', '.']",1
+25,n-1,b,the bomb exploded with a blast,(H),a rose bush has prickly thorns.,"['the', 'bomb', 'exploded', 'with', 'a', 'blast']","['a', 'rose', 'bush', 'has', 'prickly', 'thorns', '.']",1
+26,n-1,b,,(H),a rose bush has prickly thorns.,[],"['a', 'rose', 'bush', 'has', 'prickly', 'thorns', '.']",0
+27,n-1,b,mary could not discuss the tag,(H),a rose bush has prickly thorns.,"['mary', 'could', 'not', 'discuss', 'the', 'tag']","['a', 'rose', 'bush', 'has', 'prickly', 'thorns', '.']",0
+24,n-1,a,a real special prickley thornes,(H),a rose bush has prickly thorns.,"['a', 'real', 'special', 'prickly', 'thorns']","['a', 'rose', 'bush', 'has', 'prickly', 'thorns', '.']",3
+278,n-17,b,roof hopes he heard about the hips,(H),the bomb exploded with a blast.,"['roof', 'hopes', 'he', 'heard', 'about', 'the', 'hips']","['the', 'bomb', 'exploded', 'with', 'a', 'blast', '.']",1
+270,n-17,a,the bomb exploded with a blast,(H),the bomb exploded with a blast.,"['the', 'bomb', 'exploded', 'with', 'a', 'blast']","['the', 'bomb', 'exploded', 'with', 'a', 'blast', '.']",6
+271,n-17,a,the bomb exploded with a blast.,(H),the bomb exploded with a blast.,"['the', 'bomb', 'exploded', 'with', 'a', 'blast', '.']","['the', 'bomb', 'exploded', 'with', 'a', 'blast', '.']",7
+272,n-17,a,the bomb exploded the burst.,(H),the bomb exploded with a blast.,"['the', 'bomb', 'exploded', 'the', 'burst', '.']","['the', 'bomb', 'exploded', 'with', 'a', 'blast', '.']",5
+273,n-17,a,the bomb exploded with a blast,(H),the bomb exploded with a blast.,"['the', 'bomb', 'exploded', 'with', 'a', 'blast']","['the', 'bomb', 'exploded', 'with', 'a', 'blast', '.']",6
+274,n-17,a,the bomb eksploded with a blast,(H),the bomb exploded with a blast.,"['the', 'bomb', 'exploded', 'with', 'a', 'blast']","['the', 'bomb', 'exploded', 'with', 'a', 'blast', '.']",6
+275,n-17,b,anne was interested with the breath,(H),the bomb exploded with a blast.,"['anne', 'was', 'interested', 'with', 'the', 'breath']","['the', 'bomb', 'exploded', 'with', 'a', 'blast', '.']",2
+277,n-17,b,they marched to the beat of the drum,(H),the bomb exploded with a blast.,"['they', 'marched', 'to', 'the', 'beat', 'of', 'the', 'drum']","['the', 'bomb', 'exploded', 'with', 'a', 'blast', '.']",2
+279,n-17,b,this nosel sprays a fine mist,(H),the bomb exploded with a blast.,"['this', 'nose', 'sprays', 'a', 'fine', 'mist']","['the', 'bomb', 'exploded', 'with', 'a', 'blast', '.']",1
+276,n-17,b,the bomb explored with blast,(H),the bomb exploded with a blast.,"['the', 'bomb', 'explored', 'with', 'blast']","['the', 'bomb', 'exploded', 'with', 'a', 'blast', '.']",4
+127,n-18,b,ann was interested in the breath,(L),mary could not discuss the tack.,"['ann', 'was', 'interested', 'in', 'the', 'breath']","['mary', 'could', 'not', 'discuss', 'the', 'tack', '.']",1
+126,n-18,b,marry could not discuss the tax,(L),mary could not discuss the tack.,"['marry', 'could', 'not', 'discuss', 'the', 'tax']","['mary', 'could', 'not', 'discuss', 'the', 'tack', '.']",4
+125,n-18,b,the rose bush has prickly thorns,(L),mary could not discuss the tack.,"['the', 'rose', 'bush', 'has', 'prickly', 'thorns']","['mary', 'could', 'not', 'discuss', 'the', 'tack', '.']",1
+124,n-18,a,marry could not discuss the tag,(L),mary could not discuss the tack.,"['marry', 'could', 'not', 'discuss', 'the', 'tag']","['mary', 'could', 'not', 'discuss', 'the', 'tack', '.']",4
+123,n-18,a,mary could not discuss the tech,(L),mary could not discuss the tack.,"['mary', 'could', 'not', 'discuss', 'the', 'tech']","['mary', 'could', 'not', 'discuss', 'the', 'tack', '.']",5
+122,n-18,a,mary could not discuss the tag.,(L),mary could not discuss the tack.,"['mary', 'could', 'not', 'discuss', 'the', 'tag', '.']","['mary', 'could', 'not', 'discuss', 'the', 'tack', '.']",6
+121,n-18,a,mary could not discuss attack,(L),mary could not discuss the tack.,"['mary', 'could', 'not', 'discuss', 'attack']","['mary', 'could', 'not', 'discuss', 'the', 'tack', '.']",4
+120,n-18,a,mary could not discuss the tax,(L),mary could not discuss the tack.,"['mary', 'could', 'not', 'discuss', 'the', 'tax']","['mary', 'could', 'not', 'discuss', 'the', 'tack', '.']",5
+128,n-18,b,they marched to the beat of the drum,(L),mary could not discuss the tack.,"['they', 'marched', 'to', 'the', 'beat', 'of', 'the', 'drum']","['mary', 'could', 'not', 'discuss', 'the', 'tack', '.']",2
+129,n-18,b,tom could not discuss the bar,(L),mary could not discuss the tack.,"['tom', 'could', 'not', 'discuss', 'the', 'bar']","['mary', 'could', 'not', 'discuss', 'the', 'tack', '.']",4
+239,n-19,b,jane has a problem with the coin,(L),they have a problem with the limb.,"['jane', 'has', 'a', 'problem', 'with', 'the', 'coin']","['they', 'have', 'a', 'problem', 'with', 'the', 'limb', '.']",4
+230,n-19,a,they have a problem with the lint,(L),they have a problem with the limb.,"['they', 'have', 'a', 'problem', 'with', 'the', 'lint']","['they', 'have', 'a', 'problem', 'with', 'the', 'limb', '.']",6
+231,n-19,a,they have a problem with the limb.,(L),they have a problem with the limb.,"['they', 'have', 'a', 'problem', 'with', 'the', 'limb', '.']","['they', 'have', 'a', 'problem', 'with', 'the', 'limb', '.']",8
+232,n-19,a,they have a problem with a rince.,(L),they have a problem with the limb.,"['they', 'have', 'a', 'problem', 'with', 'a', 'since', '.']","['they', 'have', 'a', 'problem', 'with', 'the', 'limb', '.']",7
+233,n-19,a,they have a problem with the limbs,(L),they have a problem with the limb.,"['they', 'have', 'a', 'problem', 'with', 'the', 'limbs']","['they', 'have', 'a', 'problem', 'with', 'the', 'limb', '.']",6
+237,n-19,b,tom will discuss the swan,(L),they have a problem with the limb.,"['tom', 'will', 'discuss', 'the', 'swan']","['they', 'have', 'a', 'problem', 'with', 'the', 'limb', '.']",1
+235,n-19,b,they have a problem with the linen,(L),they have a problem with the limb.,"['they', 'have', 'a', 'problem', 'with', 'the', 'linen']","['they', 'have', 'a', 'problem', 'with', 'the', 'limb', '.']",6
+236,n-19,b,they have a problem with a lin,(L),they have a problem with the limb.,"['they', 'have', 'a', 'problem', 'with', 'a', 'lin']","['they', 'have', 'a', 'problem', 'with', 'the', 'limb', '.']",6
+238,n-19,b,this nossle spray is a fine mist,(L),they have a problem with the limb.,"['this', 'nose', 'spray', 'is', 'a', 'fine', 'mist']","['they', 'have', 'a', 'problem', 'with', 'the', 'limb', '.']",1
+234,n-19,a,they have a problem with a limb,(L),they have a problem with the limb.,"['they', 'have', 'a', 'problem', 'with', 'a', 'limb']","['they', 'have', 'a', 'problem', 'with', 'the', 'limb', '.']",7
+30,n-2,a,we should have considered the juice,(L),we should have considered the juice.,"['we', 'should', 'have', 'considered', 'the', 'juice']","['we', 'should', 'have', 'considered', 'the', 'juice', '.']",6
+39,n-2,b,the bomb exploded with a blast,(L),we should have considered the juice.,"['the', 'bomb', 'exploded', 'with', 'a', 'blast']","['we', 'should', 'have', 'considered', 'the', 'juice', '.']",1
+32,n-2,a,we should consider the juice.,(L),we should have considered the juice.,"['we', 'should', 'consider', 'the', 'juice', '.']","['we', 'should', 'have', 'considered', 'the', 'juice', '.']",5
+38,n-2,b,a rosebush has pricky thorns,(L),we should have considered the juice.,"['a', 'rosebush', 'has', 'prick', 'thorns']","['we', 'should', 'have', 'considered', 'the', 'juice', '.']",0
+37,n-2,b,we should have considered the juice,(L),we should have considered the juice.,"['we', 'should', 'have', 'considered', 'the', 'juice']","['we', 'should', 'have', 'considered', 'the', 'juice', '.']",6
+36,n-2,b,we should consider the juice,(L),we should have considered the juice.,"['we', 'should', 'consider', 'the', 'juice']","['we', 'should', 'have', 'considered', 'the', 'juice', '.']",4
+35,n-2,b,mary could not discuss the tax,(L),we should have considered the juice.,"['mary', 'could', 'not', 'discuss', 'the', 'tax']","['we', 'should', 'have', 'considered', 'the', 'juice', '.']",1
+34,n-2,a,we should have considered the juice,(L),we should have considered the juice.,"['we', 'should', 'have', 'considered', 'the', 'juice']","['we', 'should', 'have', 'considered', 'the', 'juice', '.']",6
+33,n-2,a,we should have considered the juice,(L),we should have considered the juice.,"['we', 'should', 'have', 'considered', 'the', 'juice']","['we', 'should', 'have', 'considered', 'the', 'juice', '.']",6
+31,n-2,a,we should have considered to choose.,(L),we should have considered the juice.,"['we', 'should', 'have', 'considered', 'to', 'choose', '.']","['we', 'should', 'have', 'considered', 'the', 'juice', '.']",5
+62,n-20,a,nancy had considered the series.,(L),nancy had considered the sleeves.,"['nancy', 'had', 'considered', 'the', 'series', '.']","['nancy', 'had', 'considered', 'the', 'sleeves', '.']",5
+69,n-20,b,ruth hope she heard about the hip,(L),nancy had considered the sleeves.,"['ruth', 'hope', 'she', 'heard', 'about', 'the', 'hip']","['nancy', 'had', 'considered', 'the', 'sleeves', '.']",1
+68,n-20,b,tom is talking about the fee,(L),nancy had considered the sleeves.,"['tom', 'is', 'talking', 'about', 'the', 'fee']","['nancy', 'had', 'considered', 'the', 'sleeves', '.']",1
+67,n-20,b,tom is talking about the fee,(L),nancy had considered the sleeves.,"['tom', 'is', 'talking', 'about', 'the', 'fee']","['nancy', 'had', 'considered', 'the', 'sleeves', '.']",1
+66,n-20,b,nancy has considered the sleeve ,(L),nancy had considered the sleeves.,"['nancy', 'has', 'considered', 'the', 'sleeve']","['nancy', 'had', 'considered', 'the', 'sleeves', '.']",3
+65,n-20,b,the soup was served in a bowl,(L),nancy had considered the sleeves.,"['the', 'soup', 'was', 'served', 'in', 'a', 'bowl']","['nancy', 'had', 'considered', 'the', 'sleeves', '.']",1
+60,n-20,a,nancy had concidered the sleeves,(L),nancy had considered the sleeves.,"['nancy', 'had', 'considered', 'the', 'sleeves']","['nancy', 'had', 'considered', 'the', 'sleeves', '.']",5
+64,n-20,a,nancy had considered the sleeves,(L),nancy had considered the sleeves.,"['nancy', 'had', 'considered', 'the', 'sleeves']","['nancy', 'had', 'considered', 'the', 'sleeves', '.']",5
+61,n-20,a,nancy could consider the sweeps.,(L),nancy had considered the sleeves.,"['nancy', 'could', 'consider', 'the', 'sweeps', '.']","['nancy', 'had', 'considered', 'the', 'sleeves', '.']",3
+63,n-20,a,nancy had considered the sleeves,(L),nancy had considered the sleeves.,"['nancy', 'had', 'considered', 'the', 'sleeves']","['nancy', 'had', 'considered', 'the', 'sleeves', '.']",5
+170,n-21,a,....the bike that grease,(H),lubricate the bike with grease.					,"[None, 'the', 'bike', 'that', 'grease']","['lubricate', 'the', 'bike', 'with', 'grease', '.']",3
+179,n-21,b,the rose bush has prickly thorns,(H),lubricate the bike with grease.					,"['the', 'rose', 'bush', 'has', 'prickly', 'thorns']","['lubricate', 'the', 'bike', 'with', 'grease', '.']",1
+172,n-21,a,bards broke the bike with greece.,(H),lubricate the bike with grease.					,"['bards', 'broke', 'the', 'bike', 'with', 'greece', '.']","['lubricate', 'the', 'bike', 'with', 'grease', '.']",4
+173,n-21,a,lubricate the bike with grease,(H),lubricate the bike with grease.					,"['lubricate', 'the', 'bike', 'with', 'grease']","['lubricate', 'the', 'bike', 'with', 'grease', '.']",5
+174,n-21,a,caked the bike with grease,(H),lubricate the bike with grease.					,"['caked', 'the', 'bike', 'with', 'grease']","['lubricate', 'the', 'bike', 'with', 'grease', '.']",4
+175,n-21,b,bill might discuss the firs,(H),lubricate the bike with grease.					,"['bill', 'might', 'discuss', 'the', 'firs']","['lubricate', 'the', 'bike', 'with', 'grease', '.']",1
+176,n-21,b,     bike with ,(H),lubricate the bike with grease.					,"['bike', 'with']","['lubricate', 'the', 'bike', 'with', 'grease', '.']",2
+177,n-21,b,bob could have known about the spook,(H),lubricate the bike with grease.					,"['bob', 'could', 'have', 'known', 'about', 'the', 'spook']","['lubricate', 'the', 'bike', 'with', 'grease', '.']",1
+178,n-21,b,i have spoken about the pile,(H),lubricate the bike with grease.					,"['i', 'have', 'spoken', 'about', 'the', 'pile']","['lubricate', 'the', 'bike', 'with', 'grease', '.']",1
+171,n-21,a,you retrieve the bike with grace.,(H),lubricate the bike with grease.					,"['you', 'retrieve', 'the', 'bike', 'with', 'grace', '.']","['lubricate', 'the', 'bike', 'with', 'grease', '.']",4
+70,n-22,a,the farmer harvested his crop,(H),the farmer harvested his crop.	,"['the', 'farmer', 'harvested', 'his', 'crop']","['the', 'farmer', 'harvested', 'his', 'crop', '.']",5
+79,n-22,b,bob could have known about the spoon',(H),the farmer harvested his crop.	,"['bob', 'could', 'have', 'known', 'about', 'the', 'spoon', ""'""]","['the', 'farmer', 'harvested', 'his', 'crop', '.']",1
+78,n-22,b,they have a problem with a limb,(H),the farmer harvested his crop.	,"['they', 'have', 'a', 'problem', 'with', 'a', 'limb']","['the', 'farmer', 'harvested', 'his', 'crop', '.']",0
+77,n-22,b,mary could not discuss the tac,(H),the farmer harvested his crop.	,"['mary', 'could', 'not', 'discuss', 'the', 'tac']","['the', 'farmer', 'harvested', 'his', 'crop', '.']",1
+76,n-22,b,the farmer harvested his crop,(H),the farmer harvested his crop.	,"['the', 'farmer', 'harvested', 'his', 'crop']","['the', 'farmer', 'harvested', 'his', 'crop', '.']",5
+75,n-22,b,the sailor swabbed the deck,(H),the farmer harvested his crop.	,"['the', 'sailor', 'swabbed', 'the', 'deck']","['the', 'farmer', 'harvested', 'his', 'crop', '.']",2
+73,n-22,a,the farmer harvested his crop,(H),the farmer harvested his crop.	,"['the', 'farmer', 'harvested', 'his', 'crop']","['the', 'farmer', 'harvested', 'his', 'crop', '.']",5
+72,n-22,a,the farmer harvested his crop.,(H),the farmer harvested his crop.	,"['the', 'farmer', 'harvested', 'his', 'crop', '.']","['the', 'farmer', 'harvested', 'his', 'crop', '.']",6
+71,n-22,a,the farmer harvested his crop.,(H),the farmer harvested his crop.	,"['the', 'farmer', 'harvested', 'his', 'crop', '.']","['the', 'farmer', 'harvested', 'his', 'crop', '.']",6
+74,n-22,a,the farmer harvested his crops,(H),the farmer harvested his crop.	,"['the', 'farmer', 'harvested', 'his', 'crops']","['the', 'farmer', 'harvested', 'his', 'crop', '.']",4
+160,n-23,a,bill heard tom call about the coach,(L),bill heard tom called about the coach.,"['bill', 'heard', 'tom', 'call', 'about', 'the', 'coach']","['bill', 'heard', 'tom', 'called', 'about', 'the', 'coach', '.']",6
+161,n-23,a,bill have told about the coach.,(L),bill heard tom called about the coach.,"['bill', 'have', 'told', 'about', 'the', 'coach', '.']","['bill', 'heard', 'tom', 'called', 'about', 'the', 'coach', '.']",5
+162,n-23,a,bill had conclude about the coach.,(L),bill heard tom called about the coach.,"['bill', 'had', 'conclude', 'about', 'the', 'coach', '.']","['bill', 'heard', 'tom', 'called', 'about', 'the', 'coach', '.']",5
+163,n-23,a,bill heard thom called about the coach,(L),bill heard tom called about the coach.,"['bill', 'heard', 'thom', 'called', 'about', 'the', 'coach']","['bill', 'heard', 'tom', 'called', 'about', 'the', 'coach', '.']",6
+164,n-23,a,will heard tom call about the coach,(L),bill heard tom called about the coach.,"['will', 'heard', 'tom', 'call', 'about', 'the', 'coach']","['bill', 'heard', 'tom', 'called', 'about', 'the', 'coach', '.']",5
+165,n-23,b,jane has a problem with the coin,(L),bill heard tom called about the coach.,"['jane', 'has', 'a', 'problem', 'with', 'the', 'coin']","['bill', 'heard', 'tom', 'called', 'about', 'the', 'coach', '.']",1
+166,n-23,b,they'll have    about couch,(L),bill heard tom called about the coach.,"['they', 'all', 'have', 'about', 'couch']","['bill', 'heard', 'tom', 'called', 'about', 'the', 'coach', '.']",1
+167,n-23,b,the soup was served in a bowl,(L),bill heard tom called about the coach.,"['the', 'soup', 'was', 'served', 'in', 'a', 'bowl']","['bill', 'heard', 'tom', 'called', 'about', 'the', 'coach', '.']",1
+168,n-23,b,nancy should consider the feast,(L),bill heard tom called about the coach.,"['nancy', 'should', 'consider', 'the', 'feast']","['bill', 'heard', 'tom', 'called', 'about', 'the', 'coach', '.']",1
+169,n-23,b,you were considering the gang,(L),bill heard tom called about the coach.,"['you', 'were', 'considering', 'the', 'gang']","['bill', 'heard', 'tom', 'called', 'about', 'the', 'coach', '.']",1
+314,n-24,a,they marched to the beat of a drum,(H),they marched to the beat of the drum.,"['they', 'marched', 'to', 'the', 'beat', 'of', 'a', 'drum']","['they', 'marched', 'to', 'the', 'beat', 'of', 'the', 'drum', '.']",7
+310,n-24,a,they marched to the beat of the drum,(H),they marched to the beat of the drum.,"['they', 'marched', 'to', 'the', 'beat', 'of', 'the', 'drum']","['they', 'marched', 'to', 'the', 'beat', 'of', 'the', 'drum', '.']",8
+311,n-24,a,they marched to the beet at the trunk.......,(H),they marched to the beat of the drum.,"['they', 'marched', 'to', 'the', 'beet', 'at', 'the', 'trunk', None]","['they', 'marched', 'to', 'the', 'beat', 'of', 'the', 'drum', '.']",5
+319,n-24,b,nancy had considered the sleeves,(H),they marched to the beat of the drum.,"['nancy', 'had', 'considered', 'the', 'sleeves']","['they', 'marched', 'to', 'the', 'beat', 'of', 'the', 'drum', '.']",1
+318,n-24,b,the soup was served in a bowl,(H),they marched to the beat of the drum.,"['the', 'soup', 'was', 'served', 'in', 'a', 'bowl']","['they', 'marched', 'to', 'the', 'beat', 'of', 'the', 'drum', '.']",1
+317,n-24,b,the fruit was shipped in wooden crates,(H),they marched to the beat of the drum.,"['the', 'fruit', 'was', 'shipped', 'in', 'wooden', 'crates']","['they', 'marched', 'to', 'the', 'beat', 'of', 'the', 'drum', '.']",1
+316,n-24,b,they marched with the beat of drum,(H),they marched to the beat of the drum.,"['they', 'marched', 'with', 'the', 'beat', 'of', 'drum']","['they', 'marched', 'to', 'the', 'beat', 'of', 'the', 'drum', '.']",6
+315,n-24,b,ruth poured the water down the drain,(H),they marched to the beat of the drum.,"['ruth', 'poured', 'the', 'water', 'down', 'the', 'drain']","['they', 'marched', 'to', 'the', 'beat', 'of', 'the', 'drum', '.']",2
+312,n-24,a,they marched to beat the dram.,(H),they marched to the beat of the drum.,"['they', 'marched', 'to', 'beat', 'the', 'dram', '.']","['they', 'marched', 'to', 'the', 'beat', 'of', 'the', 'drum', '.']",6
+313,n-24,a,they marched to the beat of the drum,(H),they marched to the beat of the drum.,"['they', 'marched', 'to', 'the', 'beat', 'of', 'the', 'drum']","['they', 'marched', 'to', 'the', 'beat', 'of', 'the', 'drum', '.']",8
+215,n-25,b,tom is talking about the fee,(H),no one was injured in the crash.,"['tom', 'is', 'talking', 'about', 'the', 'fee']","['no', 'one', 'was', 'injured', 'in', 'the', 'crash', '.']",1
+216,n-25,b,no one is    the clash,(H),no one was injured in the crash.,"['no', 'one', 'is', 'the', 'clash']","['no', 'one', 'was', 'injured', 'in', 'the', 'crash', '.']",3
+217,n-25,b,the farmer harvested his crop,(H),no one was injured in the crash.,"['the', 'farmer', 'harvested', 'his', 'crop']","['no', 'one', 'was', 'injured', 'in', 'the', 'crash', '.']",1
+218,n-25,b,no one was inured in the crash,(H),no one was injured in the crash.,"['no', 'one', 'was', 'inured', 'in', 'the', 'crash']","['no', 'one', 'was', 'injured', 'in', 'the', 'crash', '.']",6
+219,n-25,b,no one was injured in the crash,(H),no one was injured in the crash.,"['no', 'one', 'was', 'injured', 'in', 'the', 'crash']","['no', 'one', 'was', 'injured', 'in', 'the', 'crash', '.']",7
+211,n-25,a,no one was injured in the crush.,(H),no one was injured in the crash.,"['no', 'one', 'was', 'injured', 'in', 'the', 'crush', '.']","['no', 'one', 'was', 'injured', 'in', 'the', 'crash', '.']",7
+214,n-25,a,no one was inured in the crash,(H),no one was injured in the crash.,"['no', 'one', 'was', 'inured', 'in', 'the', 'crash']","['no', 'one', 'was', 'injured', 'in', 'the', 'crash', '.']",6
+210,n-25,a,noone was injured in the crash,(H),no one was injured in the crash.,"['none', 'was', 'injured', 'in', 'the', 'crash']","['no', 'one', 'was', 'injured', 'in', 'the', 'crash', '.']",5
+213,n-25,a,no one was injured in the crash,(H),no one was injured in the crash.,"['no', 'one', 'was', 'injured', 'in', 'the', 'crash']","['no', 'one', 'was', 'injured', 'in', 'the', 'crash', '.']",7
+212,n-25,a,no one would        crush,(H),no one was injured in the crash.,"['no', 'one', 'would', 'crush']","['no', 'one', 'was', 'injured', 'in', 'the', 'crash', '.']",2
+106,n-26,b,the old man thinks about the mask,(L),the old man thinks about the mast.,"['the', 'old', 'man', 'thinks', 'about', 'the', 'mask']","['the', 'old', 'man', 'thinks', 'about', 'the', 'mast', '.']",6
+105,n-26,b,the bomb exploded with a blast,(L),the old man thinks about the mast.,"['the', 'bomb', 'exploded', 'with', 'a', 'blast']","['the', 'old', 'man', 'thinks', 'about', 'the', 'mast', '.']",1
+109,n-26,b,they marched to the beat of the drum,(L),the old man thinks about the mast.,"['they', 'marched', 'to', 'the', 'beat', 'of', 'the', 'drum']","['the', 'old', 'man', 'thinks', 'about', 'the', 'mast', '.']",2
+107,n-26,b,ruth called the water down the drain,(L),the old man thinks about the mast.,"['ruth', 'called', 'the', 'water', 'down', 'the', 'drain']","['the', 'old', 'man', 'thinks', 'about', 'the', 'mast', '.']",2
+104,n-26,a,the old man thinks about the mask,(L),the old man thinks about the mast.,"['the', 'old', 'man', 'thinks', 'about', 'the', 'mask']","['the', 'old', 'man', 'thinks', 'about', 'the', 'mast', '.']",6
+103,n-26,a,the old man thinks about the masked,(L),the old man thinks about the mast.,"['the', 'old', 'man', 'thinks', 'about', 'the', 'masked']","['the', 'old', 'man', 'thinks', 'about', 'the', 'mast', '.']",6
+102,n-26,a,the old man thinks about the most.,(L),the old man thinks about the mast.,"['the', 'old', 'man', 'thinks', 'about', 'the', 'most', '.']","['the', 'old', 'man', 'thinks', 'about', 'the', 'mast', '.']",7
+101,n-26,a,the old man thinks about the last.,(L),the old man thinks about the mast.,"['the', 'old', 'man', 'thinks', 'about', 'the', 'last', '.']","['the', 'old', 'man', 'thinks', 'about', 'the', 'mast', '.']",7
+100,n-26,a,the old man thinks about the mask,(L),the old man thinks about the mast.,"['the', 'old', 'man', 'thinks', 'about', 'the', 'mask']","['the', 'old', 'man', 'thinks', 'about', 'the', 'mast', '.']",6
+108,n-26,b,nancy had considered the sleeves,(L),the old man thinks about the mast.,"['nancy', 'had', 'considered', 'the', 'sleeves']","['the', 'old', 'man', 'thinks', 'about', 'the', 'mast', '.']",1
+209,n-27,b,roof caught the rain down the drain,(H),the sailor swabbed the deck.,"['roof', 'caught', 'the', 'rain', 'down', 'the', 'drain']","['the', 'sailor', 'swabbed', 'the', 'deck', '.']",2
+208,n-27,b,robb could have known about the spoon,(H),the sailor swabbed the deck.,"['robb', 'could', 'have', 'known', 'about', 'the', 'spoon']","['the', 'sailor', 'swabbed', 'the', 'deck', '.']",1
+207,n-27,b,lubricate the bike with grease,(H),the sailor swabbed the deck.,"['lubricate', 'the', 'bike', 'with', 'grease']","['the', 'sailor', 'swabbed', 'the', 'deck', '.']",1
+206,n-27,b,the sailor swop the deck,(H),the sailor swabbed the deck.,"['the', 'sailor', 'swop', 'the', 'deck']","['the', 'sailor', 'swabbed', 'the', 'deck', '.']",4
+205,n-27,b,the farmer harvested his crops,(H),the sailor swabbed the deck.,"['the', 'farmer', 'harvested', 'his', 'crops']","['the', 'sailor', 'swabbed', 'the', 'deck', '.']",1
+204,n-27,a,the sailors swapped the deck,(H),the sailor swabbed the deck.,"['the', 'sailors', 'swapped', 'the', 'deck']","['the', 'sailor', 'swabbed', 'the', 'deck', '.']",3
+203,n-27,a,the sailor scrubbed the deck,(H),the sailor swabbed the deck.,"['the', 'sailor', 'scrubbed', 'the', 'deck']","['the', 'sailor', 'swabbed', 'the', 'deck', '.']",4
+202,n-27,a,the sales   got the duck.,(H),the sailor swabbed the deck.,"['the', 'sales', 'got', 'the', 'duck', '.']","['the', 'sailor', 'swabbed', 'the', 'deck', '.']",3
+200,n-27,a,the sailor swapped the deck,(H),the sailor swabbed the deck.,"['the', 'sailor', 'swapped', 'the', 'deck']","['the', 'sailor', 'swabbed', 'the', 'deck', '.']",4
+201,n-27,a,the status on the eck.,(H),the sailor swabbed the deck.,"['the', 'status', 'on', 'the', 'neck', '.']","['the', 'sailor', 'swabbed', 'the', 'deck', '.']",3
+55,n-28,b,the old man thinks about the mast,(L),tom will discuss the swan.,"['the', 'old', 'man', 'thinks', 'about', 'the', 'mast']","['tom', 'will', 'discuss', 'the', 'swan', '.']",2
+58,n-28,b,tom will discuss the swan,(L),tom will discuss the swan.,"['tom', 'will', 'discuss', 'the', 'swan']","['tom', 'will', 'discuss', 'the', 'swan', '.']",5
+57,n-28,b,nancy should consider the fist,(L),tom will discuss the swan.,"['nancy', 'should', 'consider', 'the', 'fist']","['tom', 'will', 'discuss', 'the', 'swan', '.']",1
+56,n-28,b,tom will discuss the swan ,(L),tom will discuss the swan.,"['tom', 'will', 'discuss', 'the', 'swan']","['tom', 'will', 'discuss', 'the', 'swan', '.']",5
+53,n-28,a,thom will discuss this one,(L),tom will discuss the swan.,"['thom', 'will', 'discuss', 'this', 'one']","['tom', 'will', 'discuss', 'the', 'swan', '.']",2
+54,n-28,a,tom will discuss this one,(L),tom will discuss the swan.,"['tom', 'will', 'discuss', 'this', 'one']","['tom', 'will', 'discuss', 'the', 'swan', '.']",3
+52,n-28,a,tom was discussed the swarm.,(L),tom will discuss the swan.,"['tom', 'was', 'discussed', 'the', 'swarm', '.']","['tom', 'will', 'discuss', 'the', 'swan', '.']",3
+51,n-28,a,tom will discuss the wamp.,(L),tom will discuss the swan.,"['tom', 'will', 'discuss', 'the', 'camp', '.']","['tom', 'will', 'discuss', 'the', 'swan', '.']",5
+50,n-28,a,tom will disucss this one,(L),tom will discuss the swan.,"['tom', 'will', 'discuss', 'this', 'one']","['tom', 'will', 'discuss', 'the', 'swan', '.']",3
+59,n-28,b,after his bath he wore a robe,(L),tom will discuss the swan.,"['after', 'his', 'bath', 'he', 'wore', 'a', 'robe']","['tom', 'will', 'discuss', 'the', 'swan', '.']",0
+190,n-29,a,i was interested in the breath,(L),ann was interested in the breath.,"['i', 'was', 'interested', 'in', 'the', 'breath']","['ann', 'was', 'interested', 'in', 'the', 'breath', '.']",5
+199,n-29,b,the soup was served in a bowl,(L),ann was interested in the breath.,"['the', 'soup', 'was', 'served', 'in', 'a', 'bowl']","['ann', 'was', 'interested', 'in', 'the', 'breath', '.']",3
+198,n-29,b,the boy gave the football a kick,(L),ann was interested in the breath.,"['the', 'boy', 'gave', 'the', 'football', 'a', 'kick']","['ann', 'was', 'interested', 'in', 'the', 'breath', '.']",2
+197,n-29,b,the boy gave the football a kick,(L),ann was interested in the breath.,"['the', 'boy', 'gave', 'the', 'football', 'a', 'kick']","['ann', 'was', 'interested', 'in', 'the', 'breath', '.']",2
+196,n-29,b,i'm interested in the blest,(L),ann was interested in the breath.,"['i', 'am', 'interested', 'in', 'the', 'blest']","['ann', 'was', 'interested', 'in', 'the', 'breath', '.']",3
+195,n-29,b,bill heard tom called about the coach,(L),ann was interested in the breath.,"['bill', 'heard', 'tom', 'called', 'about', 'the', 'coach']","['ann', 'was', 'interested', 'in', 'the', 'breath', '.']",1
+194,n-29,a,an was in..... in the breath,(L),ann was interested in the breath.,"['an', 'was', 'in', None, 'in', 'the', 'breath']","['ann', 'was', 'interested', 'in', 'the', 'breath', '.']",5
+193,n-29,a,anne was interested in the breath,(L),ann was interested in the breath.,"['anne', 'was', 'interested', 'in', 'the', 'breath']","['ann', 'was', 'interested', 'in', 'the', 'breath', '.']",5
+191,n-29,a,i was interested in the bread.,(L),ann was interested in the breath.,"['i', 'was', 'interested', 'in', 'the', 'bread', '.']","['ann', 'was', 'interested', 'in', 'the', 'breath', '.']",5
+192,n-29,a,i was interested in the bless.,(L),ann was interested in the breath.,"['i', 'was', 'interested', 'in', 'the', 'bless', '.']","['ann', 'was', 'interested', 'in', 'the', 'breath', '.']",5
+241,n-30,a,this nasal spray if i miss.,(H),this nozzle sprays a fine mist.,"['this', 'nasal', 'spray', 'if', 'i', 'miss', '.']","['this', 'nozzle', 'sprays', 'a', 'fine', 'mist', '.']",2
+242,n-30,a,this         fine mist.,(H),this nozzle sprays a fine mist.,"['this', 'fine', 'mist', '.']","['this', 'nozzle', 'sprays', 'a', 'fine', 'mist', '.']",4
+243,n-30,a,this nozzle sprays a fine mist,(H),this nozzle sprays a fine mist.,"['this', 'nozzle', 'sprays', 'a', 'fine', 'mist']","['this', 'nozzle', 'sprays', 'a', 'fine', 'mist', '.']",6
+244,n-30,a,this nozzle sprays a fine mist,(H),this nozzle sprays a fine mist.,"['this', 'nozzle', 'sprays', 'a', 'fine', 'mist']","['this', 'nozzle', 'sprays', 'a', 'fine', 'mist', '.']",6
+245,n-30,b,tom could not discuss the bark,(H),this nozzle sprays a fine mist.,"['tom', 'could', 'not', 'discuss', 'the', 'bark']","['this', 'nozzle', 'sprays', 'a', 'fine', 'mist', '.']",0
+246,n-30,b,this      about the   ,(H),this nozzle sprays a fine mist.,"['this', 'about', 'the']","['this', 'nozzle', 'sprays', 'a', 'fine', 'mist', '.']",1
+247,n-30,b,ruth hope he heard about the hips,(H),this nozzle sprays a fine mist.,"['ruth', 'hope', 'he', 'heard', 'about', 'the', 'hips']","['this', 'nozzle', 'sprays', 'a', 'fine', 'mist', '.']",0
+240,n-30,a,this nozzel sprays a fine mist,(H),this nozzle sprays a fine mist.,"['this', 'nozzle', 'sprays', 'a', 'fine', 'mist']","['this', 'nozzle', 'sprays', 'a', 'fine', 'mist', '.']",6
+248,n-30,b,roof poured the water down the drain,(H),this nozzle sprays a fine mist.,"['roof', 'poured', 'the', 'water', 'down', 'the', 'drain']","['this', 'nozzle', 'sprays', 'a', 'fine', 'mist', '.']",0
+249,n-30,b,bill heard tom call about the coach,(H),this nozzle sprays a fine mist.,"['bill', 'heard', 'tom', 'call', 'about', 'the', 'coach']","['this', 'nozzle', 'sprays', 'a', 'fine', 'mist', '.']",0
+345,n-31,b,no one was injured in the crash,(L),ruth hopes he heard about the hips.,"['no', 'one', 'was', 'injured', 'in', 'the', 'crash']","['ruth', 'hopes', 'he', 'heard', 'about', 'the', 'hips', '.']",1
+347,n-31,b,the cop wore a bullet proof west,(L),ruth hopes he heard about the hips.,"['the', 'cop', 'wore', 'a', 'bullet', 'proof', 'west']","['ruth', 'hopes', 'he', 'heard', 'about', 'the', 'hips', '.']",1
+346,n-31,b,roof      heap about the ,(L),ruth hopes he heard about the hips.,"['roof', 'heap', 'about', 'the']","['ruth', 'hopes', 'he', 'heard', 'about', 'the', 'hips', '.']",2
+344,n-31,a,ruth hoped he heard about the hibs,(L),ruth hopes he heard about the hips.,"['ruth', 'hoped', 'he', 'heard', 'about', 'the', 'his']","['ruth', 'hopes', 'he', 'heard', 'about', 'the', 'hips', '.']",5
+340,n-31,a,roof hopes he heard about the hips??,(L),ruth hopes he heard about the hips.,"['roof', 'hopes', 'he', 'heard', 'about', 'the', 'hips', '?', '?']","['ruth', 'hopes', 'he', 'heard', 'about', 'the', 'hips', '.']",6
+342,n-31,a,           heard about the hint. ,(L),ruth hopes he heard about the hips.,"['heard', 'about', 'the', 'hint', '.']","['ruth', 'hopes', 'he', 'heard', 'about', 'the', 'hips', '.']",4
+341,n-31,a,ruth sould have known about the hips.,(L),ruth hopes he heard about the hips.,"['ruth', 'would', 'have', 'known', 'about', 'the', 'hips', '.']","['ruth', 'hopes', 'he', 'heard', 'about', 'the', 'hips', '.']",5
+348,n-31,b,the fruit was shipped in wooden crates,(L),ruth hopes he heard about the hips.,"['the', 'fruit', 'was', 'shipped', 'in', 'wooden', 'crates']","['ruth', 'hopes', 'he', 'heard', 'about', 'the', 'hips', '.']",1
+343,n-31,a,ruth hooks she heard about the hips,(L),ruth hopes he heard about the hips.,"['ruth', 'hooks', 'she', 'heard', 'about', 'the', 'hips']","['ruth', 'hopes', 'he', 'heard', 'about', 'the', 'hips', '.']",5
+349,n-31,b,lubricate the bike with grease,(L),ruth hopes he heard about the hips.,"['lubricate', 'the', 'bike', 'with', 'grease']","['ruth', 'hopes', 'he', 'heard', 'about', 'the', 'hips', '.']",1
+111,n-32,a,thomas is talking about the fee.,(L),tom is talking about the fee.,"['thomas', 'is', 'talking', 'about', 'the', 'fee', '.']","['tom', 'is', 'talking', 'about', 'the', 'fee', '.']",6
+119,n-32,b,we should have considered the jews,(L),tom is talking about the fee.,"['we', 'should', 'have', 'considered', 'the', 'jews']","['tom', 'is', 'talking', 'about', 'the', 'fee', '.']",1
+117,n-32,b,"i can't guess, so give me a hint",(L),tom is talking about the fee.,"['i', 'ca', 'not', 'guess', ',', 'so', 'give', 'me', 'a', 'hint']","['tom', 'is', 'talking', 'about', 'the', 'fee', '.']",0
+116,n-32,b,tom is talking about the fee,(L),tom is talking about the fee.,"['tom', 'is', 'talking', 'about', 'the', 'fee']","['tom', 'is', 'talking', 'about', 'the', 'fee', '.']",6
+115,n-32,b,you were considering the game,(L),tom is talking about the fee.,"['you', 'were', 'considering', 'the', 'game']","['tom', 'is', 'talking', 'about', 'the', 'fee', '.']",1
+114,n-32,a,tom is talking about the fee,(L),tom is talking about the fee.,"['tom', 'is', 'talking', 'about', 'the', 'fee']","['tom', 'is', 'talking', 'about', 'the', 'fee', '.']",6
+113,n-32,a,thom is talking about the fee,(L),tom is talking about the fee.,"['thom', 'is', 'talking', 'about', 'the', 'fee']","['tom', 'is', 'talking', 'about', 'the', 'fee', '.']",5
+112,n-32,a,tom is talking about the fee.,(L),tom is talking about the fee.,"['tom', 'is', 'talking', 'about', 'the', 'fee', '.']","['tom', 'is', 'talking', 'about', 'the', 'fee', '.']",7
+110,n-32,a,tom is talking about the fee,(L),tom is talking about the fee.,"['tom', 'is', 'talking', 'about', 'the', 'fee']","['tom', 'is', 'talking', 'about', 'the', 'fee', '.']",6
+118,n-32,b,the farmer harvested his crop,(L),tom is talking about the fee.,"['the', 'farmer', 'harvested', 'his', 'crop']","['tom', 'is', 'talking', 'about', 'the', 'fee', '.']",1
